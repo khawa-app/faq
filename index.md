@@ -30,46 +30,18 @@
                         <a class="cd-faq__trigger" href="#0"><span>How do I sign up?</span></a>
                         <div class="cd-faq__content">
                             <div class="text-component">
-                                <p>Click on 'Sign Up' button to go to sign up screen, and then fill your first name, last name, email address and password.</p>
+                                <p>You can signup using Facebook or email. For email, go to sign up screen, and then fill your first name, last name, email address and password.</p>
                             </div>
                         </div>
                         <!-- cd-faq__content -->
                     </li>
 
                     <li class="cd-faq__item">
-                        <a class="cd-faq__trigger" href="#0"><span>How can I see recommendations?</span></a>
+                        <a class="cd-faq__trigger" href="#0"><span>How can I upload a story?</span></a>
                         <div class="cd-faq__content">
                             <div class="text-component">
                                 <p>
-                                    You must upload a profile picture to be able to see recommendations and let other people find you.
-                                </p>
-                            </div>
-                        </div>
-                        <!-- cd-faq__content -->
-                    </li>
-                </ul>
-                <!-- cd-faq__group -->
-
-                <ul id="mobile" class="cd-faq__group">
-                    <li class="cd-faq__title"><h2>Mobile</h2></li>
-                    <li class="cd-faq__item">
-                        <a class="cd-faq__trigger" href="#0"><span>How can I be in an exclusive chat?</span></a>
-                        <div class="cd-faq__content">
-                            <div class="text-component">
-                                <p>
-                                    Sending a message will make a chat exclusive for you.
-                                </p>
-                            </div>
-                        </div>
-                        <!-- cd-faq__content -->
-                    </li>
-
-                    <li class="cd-faq__item">
-                        <a class="cd-faq__trigger" href="#0"><span>How can I leave an exclusive chat?</span></a>
-                        <div class="cd-faq__content">
-                            <div class="text-component">
-                                <p>
-                                    In the top right-hand corner inside a chat screen, click on the settings icon and you will be able to select 'Leave exclusivity' option.
+                                    Click on the camera icon in the middle of the bottom tab and upload a photo or video.
                                 </p>
                             </div>
                         </div>
