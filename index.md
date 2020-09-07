@@ -6,12 +6,12 @@
             document.getElementsByTagName("html")[0].className += " js";
         </script>
         <link rel="stylesheet" href="assets/css/style.css" />
-        <title>Khawa FAQ</title>
+        <title>Popst FAQ</title>
     </head>
     <body>
         <header class="cd-header flex flex-column flex-center">
             <div class="text-component text-center">
-                <h1>Khawa FAQ</h1>
+                <h1>Popst FAQ</h1>
             </div>
         </header>
 
